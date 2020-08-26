@@ -6,3 +6,7 @@ Construido con HTML, CSS y JavaScript
 # Utilizar dependecia
 
 Blissful.js
+
+# Para poder ejecutar
+
+Abrir el archivo html
